@@ -1,0 +1,29 @@
+.changeset/stream-provider-video-preview.md
+  s_463fc7b9d27eee::t_b7976fe4d3f88f 7
+packages/admin/src/components/MediaDetailPanel.tsx
+  s_463fc7b9d27eee::t_a603b85963f476 255
+packages/admin/src/components/MediaLibrary.tsx
+  s_463fc7b9d27eee::t_223eb795972e3f 33,851,887
+packages/admin/tests/components/MediaLibrary.test.tsx
+  s_463fc7b9d27eee::t_8d4da72a0810be 6,391-442
+packages/cloudflare/src/media/stream-runtime.ts
+  s_463fc7b9d27eee::t_76da5065a6b359 290-291
+packages/core/src/ui.ts
+  s_463fc7b9d27eee::t_09ae5b9436a2ad 48
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "fbd6b9bab4494909af9f835fcb5e7f0b708c66b6",
+  "prompts": {},
+  "sessions": {
+    "s_463fc7b9d27eee": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_00e0f752fffeEOrGunReN7mZuC",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "helio.semedo <helio@cloudflare.com>"
+    }
+  }
+}
