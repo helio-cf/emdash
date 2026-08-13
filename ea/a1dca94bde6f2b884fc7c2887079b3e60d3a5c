@@ -1,0 +1,31 @@
+packages/admin/src/components/MediaDetailPanel.tsx
+  s_463fc7b9d27eee::t_1175564d069911 16,58-60,255-273,275
+packages/admin/src/components/MediaLibrary.tsx
+  s_de9d1dafd1e463::t_ea7972add2f780 770-772,870-871
+packages/admin/src/lib/media-utils.ts
+  s_463fc7b9d27eee::t_a96b75fae4b881 12-46,56-58
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "eaa1dca94bde6f2b884fc7c2887079b3e60d3a5c",
+  "prompts": {},
+  "sessions": {
+    "s_463fc7b9d27eee": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_00e0f752fffeEOrGunReN7mZuC",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "helio.semedo <helio@cloudflare.com>"
+    },
+    "s_de9d1dafd1e463": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_02291195fffengDjPB1QjYN2fx",
+        "model": "claude-opus-5"
+      },
+      "human_author": "helio.semedo <helio@cloudflare.com>"
+    }
+  }
+}
