@@ -1,0 +1,22 @@
+packages/admin/tests/lib/media-playback.test.ts
+  s_39f550a62b8c6b::t_770cc255240e48 1-39
+packages/admin/tests/components/MediaDetailPanel.test.tsx
+  s_39f550a62b8c6b::t_7f2280155ad999 57-94,538-589
+  s_39f550a62b8c6b::t_3e89dd41fb4129 590
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "47cbb6aaae3832af6969af134a3e2900dbe03b97",
+  "prompts": {},
+  "sessions": {
+    "s_39f550a62b8c6b": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_04621efd5ffe40BWgIOSxzKtAD",
+        "model": "claude-opus-5"
+      },
+      "human_author": "helio.semedo <helio@cloudflare.com>"
+    }
+  }
+}
