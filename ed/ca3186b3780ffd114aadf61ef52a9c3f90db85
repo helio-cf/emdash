@@ -1,0 +1,43 @@
+.changeset/stream-provider-video-preview.md
+  s_39f550a62b8c6b::t_39a2984ade3f9b 1-7
+packages/admin/src/components/MediaLibrary.tsx
+  s_de9d1dafd1e463::t_ea7972add2f780 771
+packages/admin/src/components/MediaDetailPanel.tsx
+  s_463fc7b9d27eee::t_1175564d069911 16,58-59,254-264
+packages/cloudflare/src/media/stream-runtime.ts
+  s_463fc7b9d27eee::t_0688e87a1f7dcc 290-292
+packages/admin/src/lib/media-utils.ts
+  s_463fc7b9d27eee::t_a96b75fae4b881 12-46,56-58
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "edca3186b3780ffd114aadf61ef52a9c3f90db85",
+  "prompts": {},
+  "sessions": {
+    "s_39f550a62b8c6b": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_04621efd5ffe40BWgIOSxzKtAD",
+        "model": "claude-opus-5"
+      },
+      "human_author": "helio.semedo <helio@cloudflare.com>"
+    },
+    "s_463fc7b9d27eee": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_00e0f752fffeEOrGunReN7mZuC",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "helio.semedo <helio@cloudflare.com>"
+    },
+    "s_de9d1dafd1e463": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_02291195fffengDjPB1QjYN2fx",
+        "model": "claude-opus-5"
+      },
+      "human_author": "helio.semedo <helio@cloudflare.com>"
+    }
+  }
+}
