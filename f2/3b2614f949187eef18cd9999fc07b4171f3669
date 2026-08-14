@@ -1,0 +1,21 @@
+packages/core/src/schema/zod-generator.ts
+  s_b10c1efbbd0c96::t_24c4d87b9cda25 422-425,455-475
+packages/core/tests/unit/schema/zod-generator.test.ts
+  s_b10c1efbbd0c96::t_14a2e25056214f 3,675-798
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "f23b2614f949187eef18cd9999fc07b4171f3669",
+  "prompts": {},
+  "sessions": {
+    "s_b10c1efbbd0c96": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fff647b21ffewT1QH9hccx00EE",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "helio.semedo <helio@cloudflare.com>"
+    }
+  }
+}
